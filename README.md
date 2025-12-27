@@ -56,8 +56,8 @@ php-auth-system-login-register/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Adarshteq/PHP-Auth-System-Login-Register.git
-cd PHP-Auth-System-Login-Register
+git clone https://github.com/Adarshtechy/SecureAuth-PHP.git
+cd SecureAuth-PHP
 ```
 
 2. Set Up Local Server
