@@ -88,5 +88,5 @@ $conn = mysqli_connect('localhost', 'root', '', 'auth_system');
   - Open your browser and go to:
 
 ```pgsql
-http://localhost/PHP-Auth-System-Login-Register/index.php
+http://localhost/PHP-Auth-System/index.php
 ```
