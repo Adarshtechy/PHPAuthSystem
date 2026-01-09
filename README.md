@@ -1,4 +1,4 @@
-## PHP Auth System - Login & Register
+## PHP Auth System 
 
 A simple, clean, and responsive user authentication system built using PHP, HTML, CSS, and JavaScript. 
 
